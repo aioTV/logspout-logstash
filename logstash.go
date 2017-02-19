@@ -6,7 +6,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/gliderlabs/logspout/router"
+	"github.com/aiotv/logspout/router"
 )
 
 func init() {
